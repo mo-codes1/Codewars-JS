@@ -1,0 +1,23 @@
+{
+  "name": "codewars-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^27.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mo-codes1/Codewars-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mo-codes1/Codewars-JS/issues"
+  },
+  "homepage": "https://github.com/mo-codes1/Codewars-JS#readme"
+}
